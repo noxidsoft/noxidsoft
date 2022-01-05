@@ -51,8 +51,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Noxidsoft's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=noxidsoft&show_icons=true&hide_border=true" />
+  
+  [![Noxidsoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=noxidsoft)](https://github.com/noxidsoft/github-readme-stats)
 
 </details>
 
