@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything (for the past 20 years) 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more no-code projects, password'less apps, blockchain
+- 🥅 2022 Goals: Contribute more no-code projects, password'less apps, blockchain, node only apps
 - ⚡ Fun fact: I love to travel and explore the wilds
 
 ### Connect with me:
