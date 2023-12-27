@@ -1,5 +1,5 @@
 ### Hi there 👋
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noxidsoft)](https://github.com/noxidsoft/noxidsoft)-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noxidsoft&show_icons=true&theme=radical&show)](https://github.com/noxidsoft/noxidsoft)
 <!--
 **noxidsoft/noxidsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
