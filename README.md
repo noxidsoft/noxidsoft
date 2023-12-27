@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noxidsoft&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true)](https://github.com/noxidsoft/noxidsoft)
+<!--to-do, add vercel app domain, sign in with github account noxidsoft-->
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noxidsoft&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true)](https://github.com/noxidsoft/noxidsoft)->
 <!--
 **noxidsoft/noxidsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
