@@ -7,7 +7,7 @@
 
 -->
 - 🔭 Software Developer at [Noxidsoft](https://noxidsoft.com)
-- 🤖 Creator of noxidsoft/HazAlerts
+- 🤖 Creator of noxidsoft/reportuse
 - 📫 How to reach me: github@noxidsoft.com
 
 You can
