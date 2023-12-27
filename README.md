@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noxidsoft)](https://github.com/noxidsoft/noxidsoft)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noxidsoft)](https://github.com/noxidsoft/noxidsoft)-->
 <!--
 **noxidsoft/noxidsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -7,7 +7,7 @@
 -->
 - 🔭 Software Developer at [Noxidsoft](https://noxidsoft.com)
 - 🤖 Creator of noxidsoft/HazAlerts
-- 📫 How to reach me: github@noeldixon.com
+- 📫 How to reach me: github@noxidsoft.com
 
 You can
 
