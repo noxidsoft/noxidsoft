@@ -14,7 +14,7 @@
 
 <!--![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Noxidsoft&theme=tokyonight)-->
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Noxidsoft&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)-->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Noxidsoft&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Noxidsoft&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=480" alt="GitHub Streak" /></a>
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noxidsoft&theme=tokyonight)
 
 You can
