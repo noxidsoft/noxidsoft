@@ -7,7 +7,7 @@
 
 -->
 - 🔭 Software Developer at [Noxidsoft](https://noxidsoft.com)
-- 🤖 Creator of [Council | Words](https://www.councilwords.com) 
+- 🤖 Creator of [Fees & Charges](https://www.feescharges.com/) | [Council Words](https://www.councilwords.com) 
 - 📫 How to reach me: github@noxidsoft.com
 
 📊 Stats
