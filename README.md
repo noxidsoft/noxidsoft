@@ -1,4 +1,4 @@
-## Permanently moved to private server
+## Permanently moved to private server 2025-02-15
 
 ### Hi there 👋
 <!--too hard to use, shows bad stats because can't see private repos & contribs-->
