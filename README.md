@@ -1,3 +1,5 @@
+## Permanently moved to private server
+
 ### Hi there 👋
 <!--too hard to use, shows bad stats because can't see private repos & contribs-->
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noxidsoft&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true)](https://github.com/noxidsoft/noxidsoft)->
