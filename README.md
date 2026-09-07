@@ -23,6 +23,7 @@ Permanently moved:
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noxidsoft&theme=tokyonight)
 
 Local repo stats
+
 <img width="802" height="563" alt="image" src="https://github.com/user-attachments/assets/a2ed9f90-ebe5-4265-9b81-2fe7182f09b4" />
 
 You can
