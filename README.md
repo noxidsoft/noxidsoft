@@ -1,7 +1,3 @@
-Permanently moved:
-- to private server 2025-02
-- removed private repo history 2025-04
-
 ### Hi there 👋
 <!--too hard to use, shows bad stats because can't see private repos & contribs-->
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noxidsoft&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true)](https://github.com/noxidsoft/noxidsoft)->
@@ -21,6 +17,10 @@ Permanently moved:
 <!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Noxidsoft&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=480" alt="GitHub Streak" /></a>-->
 <!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Noxidsoft&theme=tokyonight" alt="GitHub Streak" /></a>-->
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noxidsoft&theme=tokyonight)
+
+Permanently moved:
+- to private server 2025-02
+- removed private repo history 2025-04
 
 Local repo stats
 
