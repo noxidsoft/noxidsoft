@@ -22,6 +22,9 @@ Permanently moved:
 <!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Noxidsoft&theme=tokyonight" alt="GitHub Streak" /></a>-->
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noxidsoft&theme=tokyonight)
 
+Local repo stats
+<img width="802" height="563" alt="image" src="https://github.com/user-attachments/assets/a2ed9f90-ebe5-4265-9b81-2fe7182f09b4" />
+
 You can
 
 <a href="https://www.buymeacoffee.com/makernole" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
